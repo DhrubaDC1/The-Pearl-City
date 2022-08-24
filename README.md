@@ -22,6 +22,7 @@ While establishing the network infrastructure, there are specific rules that wer
   The Water Protective Site also had a web server and a DNS server. If anyone had typed the URL www.thepearlcity.com, they would have seen a webpage that says ‘Welcome to the Pearl City’.
 
   All servers were configured manually.
+  
   Routing in the whole network had followed these rules:
   Configure at least two networks to be routed dynamically and two to be routed statically. The Water Protective Site was directly connected to the Fire Protective Site, and the Mind Control Protective Site would communicate with Fire Protective Site via Water Protective Site.
   The Mind Control Protective Site and Fire Protective Site were also connected, as mentioned earlier, but it was not the primary route. A backup route had been configured here.
