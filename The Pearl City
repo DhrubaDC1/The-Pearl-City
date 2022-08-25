@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-08-25T08:08:25.903Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/16.0 Safari/605.1.15" etag="GLCHZqOgAfOmouWFuPTA" version="20.2.7" type="github">
+<mxfile host="app.diagrams.net" modified="2022-08-25T08:11:43.669Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/16.0 Safari/605.1.15" etag="8MFWFcn2yyTC0rDS-gYP" version="20.2.7" type="github">
   <diagram id="wg570_zOMScpRy3IebKz" name="Page-1">
-    <mxGraphModel dx="678" dy="470" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1186" dy="823" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -82,20 +82,20 @@
         <mxCell id="sNQvG9PncrTgv7_sJmsA-29" value="Wind Protective&lt;br&gt;Site (512 Hosts)" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=16;" vertex="1" parent="1">
           <mxGeometry x="150" y="310" width="140" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="sNQvG9PncrTgv7_sJmsA-30" value="Wind Protective&lt;br&gt;Site (512 Hosts)" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=16;" vertex="1" parent="1">
-          <mxGeometry x="310" y="430" width="140" height="50" as="geometry" />
+        <mxCell id="sNQvG9PncrTgv7_sJmsA-30" value="Speed Protective&lt;br&gt;Site (378 Hosts)" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="305" y="430" width="150" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="sNQvG9PncrTgv7_sJmsA-31" value="Wind Protective&lt;br&gt;Site (512 Hosts)" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=16;" vertex="1" parent="1">
+        <mxCell id="sNQvG9PncrTgv7_sJmsA-31" value="Water Protective&lt;br&gt;Site (43 Hosts)" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=16;" vertex="1" parent="1">
           <mxGeometry x="1105" y="910" width="140" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="sNQvG9PncrTgv7_sJmsA-32" value="Wind Protective&lt;br&gt;Site (512 Hosts)" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=16;" vertex="1" parent="1">
-          <mxGeometry x="910" y="790" width="140" height="50" as="geometry" />
+        <mxCell id="sNQvG9PncrTgv7_sJmsA-32" value="Intelligence Protective&lt;br&gt;Site (62 Hosts)" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="890" y="790" width="180" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="sNQvG9PncrTgv7_sJmsA-33" value="Wind Protective&lt;br&gt;Site (512 Hosts)" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=16;" vertex="1" parent="1">
+        <mxCell id="sNQvG9PncrTgv7_sJmsA-33" value="Fire Protective&lt;br&gt;Site (129 Hosts)" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=16;" vertex="1" parent="1">
           <mxGeometry x="710" y="670" width="140" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="sNQvG9PncrTgv7_sJmsA-34" value="Wind Protective&lt;br&gt;Site (512 Hosts)" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=16;" vertex="1" parent="1">
-          <mxGeometry x="510" y="550" width="140" height="50" as="geometry" />
+        <mxCell id="sNQvG9PncrTgv7_sJmsA-34" value="Mind Control&lt;br&gt;Protective&amp;nbsp;Site&lt;br&gt;(224 Hosts)" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="515" y="540" width="130" height="70" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
